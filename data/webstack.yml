@@ -3,7 +3,7 @@
 - taxonomy: 作者站点
   icon: fas fa-medal
   links:
-    - title: 语雀
+    - title: 小小语雀
       logo: y/yuque.webp
       url: https://www.yuque.com/shenweiyan
       description: 章鱼猫先生的语雀知识库。
@@ -115,7 +115,7 @@
           url: https://jihulab.com/
           description: GitLab 极狐版 (JH)。
         - title: GitLab
-          logo: g/gitlab.webp
+          logo: g/gitlab.webp 
           url: https://gitlab.com/
           description: The One DevOps Platform.
         - title: AtomGit
